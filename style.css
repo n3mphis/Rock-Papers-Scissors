@@ -1,0 +1,17 @@
+* {
+    background-color: #000000;
+    color: #87B7ED;
+    text-align: center;
+    margin-top: 150px;
+    font-family: "DM Serif Text", serif;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #A7B8CC;
+    font-family: 20px;
+}
